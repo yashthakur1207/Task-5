@@ -1,0 +1,11 @@
+{
+  "name": "task5-kubernetes-app",
+  "version": "1.0.0",
+  "description": "Node.js application deployed using Kubernetes and Minikube",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Rajveer Mistri",
+  "license": "MIT"
+}
